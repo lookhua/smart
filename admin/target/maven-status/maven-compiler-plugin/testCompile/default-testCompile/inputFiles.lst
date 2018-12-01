@@ -1,0 +1,10 @@
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/core/enums/StatusEnumTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/AdminApplicationTests.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/repository/RoleRepositoryTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/core/shiro/ShiroUtilTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/service/impl/MenuServiceImplTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/service/impl/UserServiceImplTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/repository/UserRepositoryTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/service/impl/RoleServiceImplTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/controller/MainControllerTest.java
+/home/lkh/IdeaProjects/Timo/admin/src/test/java/com/linln/admin/system/repository/BaseRepositoryTest.java
